@@ -470,7 +470,7 @@ export default {
     
     // 打开发布页面
     openReleases() {
-      window.open('https://github.com/o0w0b/imgbed_o0w0b/releases', '_blank')
+      window.open('https://github.com/MarSeventh/CloudFlare-ImgBed/releases', '_blank')
     }
   }
 }

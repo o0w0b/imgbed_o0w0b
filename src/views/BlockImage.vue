@@ -144,7 +144,7 @@ export default {
         },
         contactSupport() {
             // 可以实现联系支持的逻辑
-            window.open('https://github.com/o0w0b/imgbed_o0w0b/issues', '_blank')
+            window.open('https://github.com/MarSeventh/CloudFlare-ImgBed/issues', '_blank')
         }
     }
 }
