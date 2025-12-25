@@ -1,0 +1,6 @@
+name = "imgbed-o0w0b"
+pages_build_output_dir = "./dist"
+
+[[kv_namespaces]]
+binding = "img_url"
+id = "9929511422c54166825f755c03b0a13f"
